@@ -1,3 +1,3 @@
-![Demo](Assets/demo_AR(2).gif)
+![Demo](Assets/demo_AR.gif)
 
 
