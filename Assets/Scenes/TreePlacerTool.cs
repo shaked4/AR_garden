@@ -11,6 +11,8 @@ public class PlantPlacer : MonoBehaviour
     public Button treeButton;
     public Button flowerButton;
 
+    public float minDistance = 0.5f;
+
     void Start()
     {
         prefabToPlace = treePrefab;
